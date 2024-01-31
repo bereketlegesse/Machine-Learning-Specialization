@@ -1,2 +1,2 @@
 # Machine-Learning-Specialization
-Exercises and mini projects given in Machine Learning Specialization offered by Coursera 
+Programming exercises and mini projects given in Machine Learning Specialization offered by Coursera 
